@@ -55,10 +55,6 @@ Filmagnet is a web application designed to provide users with detailed informati
 
 Contributions are welcome! Feel free to open issues or submit pull requests with your enhancements.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 
 For any inquiries or issues, please contact [dekjawa8@gmail.com].
