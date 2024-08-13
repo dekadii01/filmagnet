@@ -19,7 +19,7 @@ Filmagnet is a web application designed to provide users with detailed informati
 - **Tailwind CSS**: For styling components with a clean and responsive design.
 - **Flowbite**: To enhance the UI components.
 - **Splide.js**: For creating the carousel with responsive breakpoints.
-- **Font Awesome**: For icons used throughout the application.
+- **React Icons**: For icons used throughout the application.
 
 ## Setup and Installation
 
