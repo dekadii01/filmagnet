@@ -60,5 +60,3 @@ Contributions are welcome! Feel free to open issues or submit pull requests with
 For any inquiries or issues, please contact [dekjawa8@gmail.com].
 
 ---
-
-Feel free to customize this README with specific details related to your project.
