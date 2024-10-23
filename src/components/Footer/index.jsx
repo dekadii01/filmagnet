@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className="bg-neutral-950 flex flex-col justify-center items-center p-4">
       <div className="container">
-        <div className="max-w-5xl w-full my-10">
+        <div className="max-w-5xl w-full my-10 mx-auto text-center">
           <h4 className="text-white font-imprima">
             Filmagnet is an online movie streaming platform that offers pirated content that is not released. It has a huge collection of latest movies and films that still not available on the market and YouTube. You can watch and download
             all contents free of costs, but they are illegal, so you have to take some precautions. It is not available in all countries so you can use VPN and choose a location with access to Filmagnet. Here, we will discuss the Filmagnet.
